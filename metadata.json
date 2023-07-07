@@ -1,0 +1,8 @@
+{
+  "uuid": "3800781c-db8a-402b-ad7c-101ee08c8404",
+  "name": "USD-HUF",
+  "description": "USD (US Dollar) converted to HUF (Hungarian Forint). Updates are received every 30 seconds.",
+  "version": 6,
+  "shell-version": ["43", "44"],
+  "url": "https://github.com/runamook/USD-HUF"
+}
