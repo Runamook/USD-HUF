@@ -1,4 +1,4 @@
-# Dollar-PKR
+# USD-HUF
 ```
 Gnome-Shell v.(43,44) Extension, for conversion of Dollar (USD) to HUF.
 
